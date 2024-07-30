@@ -1,0 +1,7 @@
+*.crt
+*.key
+
+/node_modules
+bun.lockb
+
+taskList.txt
